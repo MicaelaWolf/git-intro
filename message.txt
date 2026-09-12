@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Mendaje desde la rama main
-=======
 Mendaje desde la rama feature
->>>>>>> feature-greeting
